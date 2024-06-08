@@ -1,4 +1,3 @@
-# hoanghailethe.github.io 
 ## Hi there! Welcome to my place 👋
 ### I am Nguyen Xuan Truong ⚡
 - :octocat:  Experienced backend developer for banking system.
