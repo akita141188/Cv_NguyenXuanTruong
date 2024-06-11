@@ -1,4 +1,5 @@
 ## Hi there! Welcome to my place 👋
+<a href="[text](https://akita141188.github.io/Cv_NguyenXuanTruong/)">Link Page Cv</a>
 ### I am Nguyen Xuan Truong ⚡
 - :octocat:  Experienced backend developer for banking system.
 - 🌱 I’m currently improve and working on AWS Cloud projects
@@ -7,9 +8,10 @@
 
 
 # I had experiences and skills at:
-2. Javascript / REACT/ Node js   
-3. Express / Bootstrap / jQuery 
+1. Javascript / REACT/ Node js   
+2. Express / Bootstrap / jQuery 
+3. HTML / CSS  
+4. MongoDB
 5. AWS Services
-6. MongoDB
 
 😸 lets have cups of coffee in a saturday noon 
