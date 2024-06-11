@@ -1,5 +1,5 @@
 ## Hi there! Welcome to my place 👋
-<a href="[text](https://akita141188.github.io/Cv_NguyenXuanTruong/)">Link Page Cv</a>
+[Page Cv_NguyenXuanTruonf](https://akita141188.github.io/Cv_NguyenXuanTruong/)
 ### I am Nguyen Xuan Truong ⚡
 - :octocat:  Experienced backend developer for banking system.
 - 🌱 I’m currently improve and working on AWS Cloud projects
